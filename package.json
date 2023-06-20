@@ -4,7 +4,8 @@
   "description": "A prompting service for sketches",
   "main": "src/app.js",
   "scripts": {
-    "dev": "tsc --watch"
+    "dev": "tsc --watch",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "Stilt Lunar",
